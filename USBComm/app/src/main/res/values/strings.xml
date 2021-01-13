@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">USBComm</string>
+    <string name="usb_connection_test">USB Connection Test</string>
+    <string name="list_devices">List devices</string>
+    <string name="button">Button</string>
+    <string name="show_devices">Show Devices</string>
+    <string name="data_received">Data Received</string>
+    <string name="listen">Listen</string>
+    <string name="reset">Reset</string>
+    <string name="input">Input</string>
+    <string name="Up">Up</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="Down">Down</string>
+</resources>
